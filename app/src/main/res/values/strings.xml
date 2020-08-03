@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">NewYearParty</string>
+    <string name="days_left_for_the_new_year">Days left for the New Year</string>
 </resources>
