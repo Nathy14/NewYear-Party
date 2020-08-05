@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">NewYearParty</string>
     <string name="days_left_for_the_new_year">Days left for the New Year</string>
+    <string name="are_you_going_to_participate">Are you going to participate?</string>
+    <string name="days">days</string>
+    <string name="no_confirmed">no confirmed</string>
+    <string name="no">Yes</string>
+    <string name="yes">No</string>
 </resources>
